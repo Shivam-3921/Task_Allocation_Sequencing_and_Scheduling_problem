@@ -1,5 +1,5 @@
 # Task Scheduling Problem
-This repository contains a Jupyter Notebook that addresses a robot team task allocation, sequencing, and scheduling optimization problem. The goal is to minimize the total mission completion time (makespan) for a team of identical robots performing tasks at various target locations.
+This repository contains a Jupyter Notebook that addresses a robot team task allocation, sequencing, and scheduling optimization problem. The goal is to minimize the total mission completion time for a team of identical robots performing tasks at various target locations.
 
 ## Project Description
 The problem involves:
